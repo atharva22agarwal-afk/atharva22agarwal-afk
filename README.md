@@ -17,7 +17,9 @@
     </td>
     <td valign="top" width="450" style="border: none; background: transparent; padding-left: 20px;">
       
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=9333EA&multiline=true&repeat=true&width=450&height=80&lines=Building+AI-powered+apps;React+%7C+Node.js+%7C+Gemini+%7C+Groq)](https://git.io/typing-svg)
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=9333EA&multiline=true&repeat=true&width=450&height=80&lines=Building+AI-powered+apps;React+%7C+Node.js+%7C+Gemini+%7C+Groq" alt="Typing SVG" />
+      </a>
 
       <br/>
 
@@ -28,17 +30,17 @@
 
       <h3>◈ Connect</h3>
       <p>
-        [![Gmail](https://img.shields.io/badge/Gmail-atharva22agarwal%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:atharva22agarwal@gmail.com)<br/>
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-atharva--agrawal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-agrawal-18365a380)<br/>
-        [![GitHub](https://img.shields.io/badge/GitHub-atharva22agarwal--afk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva22agarwal-afk)<br/>
-        [![Portfolio](https://img.shields.io/badge/Portfolio-atharvaagarwal.vercel.app-5B21B6?style=flat-square&logo=vercel&logoColor=white)](https://atharvaagarwal.vercel.app)
+        <a href="mailto:atharva22agarwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-atharva22agarwal%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a><br/>
+        <a href="https://linkedin.com/in/atharva-agrawal-18365a380"><img src="https://img.shields.io/badge/LinkedIn-atharva--agrawal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br/>
+        <a href="https://github.com/atharva22agarwal-afk"><img src="https://img.shields.io/badge/GitHub-atharva22agarwal--afk-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a><br/>
+        <a href="https://atharvaagarwal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-atharvaagarwal.vercel.app-5B21B6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
       </p>
 
       <br/>
 
-      ![Profile Views](https://komarev.com/ghpvc/?username=atharva22agarwal-afk&style=flat-square&color=7C3AED&label=VIEWS)
-      ![GitHub Followers](https://img.shields.io/github/followers/atharva22agarwal-afk?style=flat-square&color=6D28D9&labelColor=1e1b4b&label=FOLLOWERS)
-      ![GitHub Stars](https://img.shields.io/github/stars/atharva22agarwal-afk?style=flat-square&color=5B21B6&labelColor=1e1b4b&label=STARS)
+      <img src="https://komarev.com/ghpvc/?username=atharva22agarwal-afk&style=flat-square&color=7C3AED&label=VIEWS" alt="Profile Views" />
+      <img src="https://img.shields.io/github/followers/atharva22agarwal-afk?style=flat-square&color=6D28D9&labelColor=1e1b4b&label=FOLLOWERS" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/stars/atharva22agarwal-afk?style=flat-square&color=5B21B6&labelColor=1e1b4b&label=STARS" alt="GitHub Stars" />
 
     </td>
   </tr>
