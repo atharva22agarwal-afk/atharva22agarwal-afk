@@ -1,42 +1,48 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Atharva%20Agarwal&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20and%20AI%20Developer%20%7C%20BCA%20%40%20BIT%20Mesra&descAlignY=62&descSize=18" width="100%" />
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+AI-powered+full-stack+applications;React+%7C+Node.js+%7C+Gemini+%7C+Groq+%7C+Socket.io)](https://git.io/typing-svg)
-
-</div>
-
 <br/>
 
-<div align="center">
+<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td valign="top" width="450" style="border: none; background: transparent;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./ascii-art-v2.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./ascii-art-v2.svg" />
+        <img alt="ASCII Portrait" src="./ascii-art-v2.svg" width="450" />
+      </picture>
+    </td>
+    <td valign="top" width="450" style="border: none; background: transparent; padding-left: 20px;">
+      
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=9333EA&multiline=true&repeat=true&width=450&height=80&lines=Building+AI-powered+apps;React+%7C+Node.js+%7C+Gemini+%7C+Groq)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./ascii-art-v2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./ascii-art-v2.svg" />
-  <img alt="ASCII Portrait" src="./ascii-art-v2.svg" width="600" />
-</picture>
+      <br/>
 
-</div>
+      <h3>◈ About</h3>
+      <p>First-year BCA student at <b>BIT Mesra, Jaipur</b> building AI-powered full-stack applications. Passionate about LLM integration, real-world product engineering, and shipping things that actually work.</p>
 
-<br/>
+      <br/>
 
-<div align="center">
+      <h3>◈ Connect</h3>
+      <p>
+        [![Gmail](https://img.shields.io/badge/Gmail-atharva22agarwal%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:atharva22agarwal@gmail.com)<br/>
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-atharva--agrawal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-agrawal-18365a380)<br/>
+        [![GitHub](https://img.shields.io/badge/GitHub-atharva22agarwal--afk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva22agarwal-afk)<br/>
+        [![Portfolio](https://img.shields.io/badge/Portfolio-atharvaagarwal.vercel.app-5B21B6?style=flat-square&logo=vercel&logoColor=white)](https://atharvaagarwal.vercel.app)
+      </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=atharva22agarwal-afk&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/atharva22agarwal-afk?style=for-the-badge&color=6D28D9&labelColor=1e1b4b&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/atharva22agarwal-afk?style=for-the-badge&color=5B21B6&labelColor=1e1b4b&label=STARS)
+      <br/>
 
-</div>
+      ![Profile Views](https://komarev.com/ghpvc/?username=atharva22agarwal-afk&style=flat-square&color=7C3AED&label=VIEWS)
+      ![GitHub Followers](https://img.shields.io/github/followers/atharva22agarwal-afk?style=flat-square&color=6D28D9&labelColor=1e1b4b&label=FOLLOWERS)
+      ![GitHub Stars](https://img.shields.io/github/stars/atharva22agarwal-afk?style=flat-square&color=5B21B6&labelColor=1e1b4b&label=STARS)
 
----
-
-## ◈ About
-
-First-year BCA student at **BIT Mesra, Jaipur** building AI-powered full-stack applications. Passionate about LLM integration, real-world product engineering, and shipping things that actually work.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,7 +87,6 @@ First-year BCA student at **BIT Mesra, Jaipur** building AI-powered full-stack a
 
 </div>
 
-
 ---
 
 ## ◈ Contribution Snake
@@ -93,22 +98,6 @@ First-year BCA student at **BIT Mesra, Jaipur** building AI-powered full-stack a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva22agarwal-afk/atharva22agarwal-afk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/atharva22agarwal-afk/atharva22agarwal-afk/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## ◈ Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-atharva22agarwal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharva22agarwal@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharva--agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-agrawal-18365a380)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-atharva22agarwal--afk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva22agarwal-afk)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-atharvaagarwal.vercel.app-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://atharvaagarwal.vercel.app)
 
 </div>
 
