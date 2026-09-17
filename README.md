@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Atharva%20Agarwal&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20AI%20Developer%20%7C%20BCA%20%40%20BIT%20Mesra&descAlignY=62&descSize=18" width="100%" />
 
@@ -7,6 +7,18 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+AI-powered+full-stack+applications;React+%7C+Node.js+%7C+Gemini+%7C+Groq+%7C+Socket.io)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ascii-portrait.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./ascii-portrait.svg" />
+  <img alt="ASCII Portrait" src="./ascii-portrait.svg" width="600" />
+</picture>
 
 </div>
 
