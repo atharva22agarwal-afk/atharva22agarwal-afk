@@ -14,14 +14,6 @@
 
 <div align="center">
 
-<img src="ascii-portrait.svg" width="600" alt="ASCII Portrait" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=atharva22agarwal-afk&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/atharva22agarwal-afk?style=for-the-badge&color=6D28D9&labelColor=1e1b4b&label=FOLLOWERS)
 ![GitHub Stars](https://img.shields.io/github/stars/atharva22agarwal-afk?style=for-the-badge&color=5B21B6&labelColor=1e1b4b&label=STARS)
