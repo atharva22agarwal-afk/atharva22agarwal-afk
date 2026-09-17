@@ -81,15 +81,6 @@ First-year BCA student at **BIT Mesra, Jaipur** building AI-powered full-stack a
 
 </div>
 
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharva22agarwal-afk&bg_color=0d1117&color=9333ea&line=7c3aed&point=a855f7&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Graph&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
