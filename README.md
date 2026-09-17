@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Atharva%20Agarwal&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20AI%20Developer%20%7C%20BCA%20%40%20BIT%20Mesra&descAlignY=62&descSize=18" width="100%" />
 
@@ -15,9 +15,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./ascii-portrait.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./ascii-portrait.svg" />
-  <img alt="ASCII Portrait" src="./ascii-portrait.svg" width="600" />
+  <source media="(prefers-color-scheme: dark)" srcset="./ascii-art-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./ascii-art-v2.svg" />
+  <img alt="ASCII Portrait" src="./ascii-art-v2.svg" width="600" />
 </picture>
 
 </div>
