@@ -19,7 +19,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=9333EA&multiline=true&repeat=true&width=450&height=80&lines=Building+AI-powered+apps;React+%7C+Node.js+%7C+Gemini+%7C+Groq" alt="Typing SVG" /></a>
 <br/>
 <h3>◈ About</h3>
-<p>First-year BCA student at <b>BIT Mesra, Jaipur</b> building AI-powered full-stack applications. Passionate about LLM integration, real-world product engineering, and shipping things that actually work.</p>
+<p>Second-year BCA student at <b>BIT Mesra, Jaipur</b> building AI-powered full-stack applications. Passionate about LLM integration, real-world product engineering, and shipping things that actually work.</p>
 <br/>
 <h3>◈ Connect</h3>
 <a href="mailto:atharva22agarwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-atharva22agarwal%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a><br/>
